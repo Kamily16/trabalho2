@@ -105,3 +105,8 @@ body{
     margin: 0 16px 0 16px;
     font-size: 14px;
 }
+.rodape__texto{
+    margin: 1em 0;
+    color: #c0c0c0;
+    font-size: 12px;
+}
