@@ -17,3 +17,13 @@ body{
         align-items: center;
         text-align: center;
     }
+
+    .container__botao{
+        background-color:#167BF7;
+        border-radius: 5px;
+        padding: 1em;
+        color: #FFFFFF;
+        display: block;
+        text-decoration: none;
+        margin-bottom: 1em;
+    }
